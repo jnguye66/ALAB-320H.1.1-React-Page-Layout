@@ -1,0 +1,16 @@
+.infoTitle {
+    margin-bottom: -10px;
+}
+
+.infoInfo {
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+
+#info {
+    text-align: left;
+    padding-left: 40px;
+    margin: 5px;
+    border: gray solid 1px;
+    border-radius: 10px;
+}
